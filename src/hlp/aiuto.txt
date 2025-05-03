@@ -1,0 +1,38 @@
+===========================
+   BENVENUTO ALLA ROULETTE BASICA!
+===========================
+
+Prepara la tua scommessa e sfida la fortuna in un gioco semplice ma avvincente!
+
+--- COME SI GIOCA ---
+
+1. IMPOSTA LA TUA PUNTATA:
+   Usa i pulsanti "1+" e "1-" per aumentare o diminuire l’importo della tua giocata.
+   La puntata viene applicata a ciascun numero selezionato.
+
+2. SCEGLI I TUOI NUMERI:
+   Puoi selezionare uno o più numeri da 0 a 36.
+   Ogni numero selezionato moltiplica la tua puntata totale.
+   (Esempio: se punti 2 crediti su 3 numeri, la tua puntata totale è 6 crediti.)
+
+3. PREMI "Gamble!!!":
+   La ruota gira e viene estratto un numero casuale tra 0 e 36.
+
+4. SE HAI VINTO:
+   Se il numero estratto corrisponde a uno dei tuoi numeri selezionati,
+   vinci 36 volte la puntata fatta su quel numero!
+
+--- ESEMPIO ---
+
+Hai selezionato 4 numeri e puntato 5 crediti.
+Puntata totale: 4 numeri x 5 crediti = 20 crediti
+
+Se esce uno dei tuoi numeri, vinci: 5 x 36 = 180 crediti!
+
+--- CONSIGLIO ---
+
+Più numeri scegli, maggiori sono le probabilità di vincere…
+ma aumenta anche il costo totale della scommessa.
+Gioca con strategia!
+
+BUONA FORTUNA E GIOCA RESPONSABILMENTE!
