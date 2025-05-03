@@ -31,4 +31,4 @@ Roulette Simple è un'applicazione Java che simula una roulette grafica. Il prog
 
 ## Licenza
 
-MIT License
+Questo progetto è rilasciato sotto la licenza [MIT](./LICENSE)
