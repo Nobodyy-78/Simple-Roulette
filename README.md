@@ -11,7 +11,6 @@ Roulette Simple è un'applicazione Java che simula una roulette grafica. Il prog
   - `app.view` – Interfaccia grafica utente (GUI)
   - `hlp/` – File di aiuto
   - `img/` – Icone e immagini usate nella GUI
-- **bin/** – Classi compilate e risorse
 - **.settings/, .classpath, .project** – Configurazione Eclipse
 
 ## Requisiti
